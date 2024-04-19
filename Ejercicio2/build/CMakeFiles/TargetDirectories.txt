@@ -1,0 +1,3 @@
+/home/joaquin/CC2lab1e2/build/CMakeFiles/rebuild_cache.dir
+/home/joaquin/CC2lab1e2/build/CMakeFiles/edit_cache.dir
+/home/joaquin/CC2lab1e2/build/CMakeFiles/Problema2.dir

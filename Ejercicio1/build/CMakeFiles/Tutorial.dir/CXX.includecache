@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joaquin/CC2lab1/tutorial.cxx
+TutorialConfig.h
+/home/joaquin/CC2lab1/TutorialConfig.h
+cmath
+-
+iostream
+-
+string
+-
+
+TutorialConfig.h
+
